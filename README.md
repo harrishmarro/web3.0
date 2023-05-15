@@ -9,7 +9,7 @@ To install and run the Web3.0 application, follow the steps below:
 
 shell
 
-git clone https://github.com//web3-app.git
+git clone https://github.com/harrishmarro/web3.0.git
 
     Navigate to the project directory:
 
