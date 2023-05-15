@@ -7,19 +7,19 @@ To install and run the Web3.0 application, follow the steps below:
 
 Clone the repository from GitHub:
 
-    shell
+   shell
 
     git clone https://github.com/harrishmarro/web3.0.git
 
 Navigate to the project directory:
 
-    shell
+   shell
 
     cd web3-app
 
 Install the necessary dependencies:
 
-    shell
+   shell
 
     npm install
 
@@ -30,7 +30,7 @@ Configure the Ethereum network and contract details:
 
 Start the development server:
 
-    shell
+   shell
 
     npm start
 
@@ -81,11 +81,11 @@ Interact with a Solidity contract:
     Enter the required parameters.
     Click on the "Invoke Function" button to execute the contract function.
 
-    View transaction history:
-        The transaction history section displays a list of previous transactions.
-        Each transaction shows details such as the transaction hash, status, and timestamp.
-        Clicking on a transaction can reveal additional information about the transaction.
+View transaction history:
+    The transaction history section displays a list of previous transactions.
+    Each transaction shows details such as the transaction hash, status, and timestamp.
+    Clicking on a transaction can reveal additional information about the transaction.
 
 Support and Feedback
 
-If you encounter any issues while installing or using the Web3.0 application, please don't hesitate to reach out to our support team at support@example.com. We appreciate any feedback or suggestions for improving the application.
+If you encounter any issues while installing or using the Web3.0 application, please don't hesitate to reach out to our support team at future8infotech@gmail.com. We appreciate any feedback or suggestions for improving the application.
