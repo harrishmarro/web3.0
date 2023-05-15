@@ -5,36 +5,36 @@ Installation
 
 To install and run the Web3.0 application, follow the steps below:
 
-    Clone the repository from GitHub:
+Clone the repository from GitHub:
 
-shell
+    shell
 
-git clone https://github.com/harrishmarro/web3.0.git
+    git clone https://github.com/harrishmarro/web3.0.git
 
-    Navigate to the project directory:
+Navigate to the project directory:
 
-shell
+    shell
 
-cd web3-app
+    cd web3-app
 
-    Install the necessary dependencies:
+Install the necessary dependencies:
 
-shell
+    shell
 
-npm install
+    npm install
 
-    Configure the Ethereum network and contract details:
-        Open the config.js file in the project directory.
-        Set the appropriate Ethereum network URL, such as an Infura endpoint.
-        Provide the contract address and ABI (Application Binary Interface) for the Solidity contract you intend to interact with.
+Configure the Ethereum network and contract details:
+    Open the config.js file in the project directory.
+    Set the appropriate Ethereum network URL, such as an Infura endpoint.
+    Provide the contract address and ABI (Application Binary Interface) for the Solidity contract you intend to interact with.
 
-    Start the development server:
+Start the development server:
 
-shell
+    shell
 
-npm start
+    npm start
 
-    Access the application by opening a web browser and visiting http://localhost:3000.
+Access the application by opening a web browser and visiting http://localhost:3000.
 
 Features
 1. Ethereum Transaction
@@ -62,24 +62,24 @@ Features
 
 Usage
 
-    Connect your Ethereum wallet:
-        Open the application in a web browser.
-        Click on the "Connect Wallet" button.
-        Follow the prompts to connect your Ethereum wallet (e.g., MetaMask).
-        Once connected, your account address and Ether balance will be displayed.
+Connect your Ethereum wallet:
+    Open the application in a web browser.
+    Click on the "Connect Wallet" button.
+    Follow the prompts to connect your Ethereum wallet (e.g., MetaMask).
+    Once connected, your account address and Ether balance will be displayed.
 
-    Initiate an Ethereum transaction:
-        Enter the recipient's Ethereum address.
-        Specify the amount of Ether you want to send.
-        Adjust the gas price (if desired).
-        Click on the "Send Transaction" button to initiate the transaction.
+Initiate an Ethereum transaction:
+    Enter the recipient's Ethereum address.
+    Specify the amount of Ether you want to send.
+    Adjust the gas price (if desired).
+    Click on the "Send Transaction" button to initiate the transaction.
 
-    Interact with a Solidity contract:
-        Provide the contract address and ABI in the configuration.
-        Navigate to the contract interaction section of the application.
-        Select the desired contract method to interact with.
-        Enter the required parameters.
-        Click on the "Invoke Function" button to execute the contract function.
+Interact with a Solidity contract:
+    Provide the contract address and ABI in the configuration.
+    Navigate to the contract interaction section of the application.
+    Select the desired contract method to interact with.
+    Enter the required parameters.
+    Click on the "Invoke Function" button to execute the contract function.
 
     View transaction history:
         The transaction history section displays a list of previous transactions.
