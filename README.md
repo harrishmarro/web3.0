@@ -32,7 +32,7 @@ Start the development server:
 
    shell
 
-    npm start
+    npm run dev
 
 Access the application by opening a web browser and visiting http://localhost:3000.
 
