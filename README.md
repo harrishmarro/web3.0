@@ -4,6 +4,9 @@ This readme file provides an overview of the Web3.0 application that utilizes Re
 
 To view my Web3.0 application:
 https://647b4a1f78dbed0c917a342f--startling-cobbler-9a4c7e.netlify.app/
+<br>
+<br>
+
 ![Krypt](https://github.com/harrishmarro/web3.0/assets/74762783/19e28009-cf57-4c98-9727-0eaf02ba0fef)
 
 
