@@ -1,6 +1,12 @@
 Web3.0 Application Readme
 
 This readme file provides an overview of the Web3.0 application that utilizes React and Solidity for Ethereum transactions. This application enables users to interact with the Ethereum blockchain, perform transactions, and manage their Ether assets. Below you will find information on installation, features, and usage of the application.
+
+To view my Web3.0 application:
+https://647b4a1f78dbed0c917a342f--startling-cobbler-9a4c7e.netlify.app/
+![Krypt](https://github.com/harrishmarro/web3.0/assets/74762783/19e28009-cf57-4c98-9727-0eaf02ba0fef)
+
+
 Installation
 
 To install and run the Web3.0 application, follow the steps below:
